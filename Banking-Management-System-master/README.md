@@ -91,8 +91,3 @@ pip3 install playsound
    
    7. When admin opens all transaction details :
    <img src="https://user-images.githubusercontent.com/56812557/214742540-edae24ab-289f-4f32-a1dd-d104aa5dc1ac.png" alt="Output-7" width="50%" height="40%" >
-
-   8. SMS-Banking messages :
-   <img src="https://user-images.githubusercontent.com/56812557/214742543-3ace447a-e6e0-4261-b262-d8fa548261d0.png" alt="Output-8" width="20%" height="20%" >
-
-## Dev :- Prakash Gupta
